@@ -32,12 +32,16 @@ body {
 
 /* LINKS */
 /*cta is short for 'call to action' */
+
 .link--cta {
   font-size: 16px;
   color: aquamarine;
 }
 
-.logo {
+/* FOOTER */
+
+.footer--copyright {
   text-align: right;
   color: gray;
+  font-size: 21px;
 }
