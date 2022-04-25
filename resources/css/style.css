@@ -11,7 +11,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
 }
 
-h1 {
+.header--main {
   font-size: 50px;
   font-weight: normal;
   color: white;
