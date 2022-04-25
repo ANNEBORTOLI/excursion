@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  text-align: center;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  padding: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+p a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.logo {
+  text-align: right;
+  color: gray;
+}
